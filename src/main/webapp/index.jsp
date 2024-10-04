@@ -10,6 +10,7 @@
 <h1>GIT 협업</h1><hr>
 <ol>
 	<li>난강사</li>
+	<li>난강사</li>
 </ol>
 </body>
 </html>
