@@ -1,4 +1,4 @@
-package com.itwill.이민용;
+package com.itwill.정태수;
 
 public class MemberDao {
 	
