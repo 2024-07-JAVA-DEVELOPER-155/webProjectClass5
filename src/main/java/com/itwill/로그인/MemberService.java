@@ -1,4 +1,4 @@
-package com.itwill.김경호;
+package com.itwill.로그인;
 
 public class MemberService {
 	//asdfasdf
