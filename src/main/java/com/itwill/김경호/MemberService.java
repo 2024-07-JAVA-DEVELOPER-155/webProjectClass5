@@ -4,4 +4,7 @@ public class MemberService {
 	//asdfasdf
 	//aaaaaaaa
 
- } 
+ }
+
+ 
+
